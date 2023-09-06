@@ -1,6 +1,6 @@
 # Thish program says hello and asks for my name.
 # author: wangxiaofeng
-print('Hello world!')
+print('Hello!') # init hello
 print('What is your name?') # ask for their name
 myName = input()
 print('It is good to meet you,' + myName)
