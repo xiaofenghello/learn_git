@@ -1,5 +1,5 @@
 # Thish program says hello and asks for my name.
-
+# author: wangxiaofeng
 print('Hello world!')
 print('What is your name?') # ask for their name
 myName = input()
